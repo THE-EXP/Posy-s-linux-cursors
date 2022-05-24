@@ -4,7 +4,7 @@ Important note: I do not own original assets of those cursors, they all belong t
 
 Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download .zip` option in `~/Downloads`), howewer, you can use the scripts for automated install instead, all code in the installation scripts is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
 
-Also note that the installation guide is written for Gnome, for other window managers(like KDE, XFCE, LXQT, Cinnamon, MATE, etc.) instructions you can find online, best Tip I could find is on [Arch Wiki](https://wiki.archlinux.org/title/Cursor_themes#Desktop_environments)
+Please keep in mind that the installation guide is written for Gnome, for other Desktop enviroments(like KDE, XFCE, LXQT, Cinnamon, MATE, etc.) instructions can be found online, best instructions I could find is on [Arch Wiki](https://wiki.archlinux.org/title/Cursor_themes#Desktop_environments)
 
 any errors while using the pack should be reported in issues tab of this repo
 
