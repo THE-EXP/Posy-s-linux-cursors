@@ -4,7 +4,7 @@ Important note: I do not own original assets of those cursors, they all belong t
 
 Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download .zip` option in `~/Downloads`), howewer, you can use the scripts for automated install instead, all code in the installation scripts is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
 
-## Manual installation guide
+## Installation guide
 #### First way(Root Nautilus(Gnome))
 1. Open terminal by Pressing `Ctrl+Alt+T` or locating it in application menu
 2. Open Root Nautilus explorer with:
@@ -43,3 +43,16 @@ sudo apt install gnome-tweaks
 6. Click on `Appearance` tab in the side menu
 7. Select your newly installed set of cursors in the drop-down menu across `cursors` marking
 8. Enjoy!
+
+#### Third Way(Script)
+1. Install `gnome-tweaks`(if not already) tool from terminal using:
+``` shell
+sudo apt install gnome-tweaks
+```
+2. Navigate to the folder that the `.zip` archive was unpacked to
+3. Press `RMB` and then `Open in terminal`
+4. Launch the installation script by typing:
+``` shell
+./install.sh
+```
+Please note that the installation requires Root privileges, when prompted, please authenticate by typing your root user password(usually the same as your user password)(Important Note!: The password prompt opened by the system because script uses `sudo` command to set permisions on writing to `/usr/share/icons` the password is not saved in the script, moreover, script resets write permissions on that directory after it completes the installation, gives you instructions, and then stops)
