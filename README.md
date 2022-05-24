@@ -4,6 +4,8 @@ Important note: I do not own original assets of those cursors, they all belong t
 
 Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download .zip` option in `~/Downloads`), howewer, you can use the scripts for automated install instead, all code in the installation scripts is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
 
+any errors while using the pack should be reported in issues tab of this repo
+
 ## Installation guide
 #### First way(Root Nautilus(Gnome))
 1. Open terminal by Pressing `Ctrl+Alt+T` or locating it in application menu
