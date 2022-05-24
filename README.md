@@ -1,6 +1,6 @@
 # Posy-s-linux-cursors
 #### A port of Posy's cursors to linux
-Important note: I do not own original assets of those cursors, they all belong to Posy(aka Michiel) and available at [his site](http://www.michieldb.nl/other/cursors/) I only renamed them and generated X11 cursors with [win2xcur](https://package.wiki/win2xcur)
+Important note: I do not own original assets of those cursors, they all belong to Posy(aka Michiel) and available at [his site (www.michieldb.nl)](http://www.michieldb.nl/other/cursors/) I only renamed them and generated X11 cursors with [win2xcur](https://package.wiki/win2xcur)
 
 Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download .zip` option in `~/Downloads`), howewer, you can use the scripts for automated install instead, all code in the installation scripts is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
 
