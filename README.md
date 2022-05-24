@@ -52,9 +52,7 @@ sudo apt install gnome-tweaks
 sudo apt install gnome-tweaks
 ```
 2. Navigate to the folder that the `.zip` archive was unpacked to
-3. Press `RMB` and then `Open in terminal`
-4. Launch the installation script by typing:
-``` shell
-./install.sh
-```
+3. Press `RMB` and then `Properties`
+4. Press `Permissions` tab and check the flag `Allow executing file as programm`
+5. Press `RMB` and then `Run as a Programm`
 Please note that the installation requires Root privileges, when prompted, please authenticate by typing your root user password(usually the same as your user password)(Important Note!: The password prompt opened by the system because script uses `sudo` command to set permisions on writing to `/usr/share/icons` the password is not saved in the script, moreover, script resets write permissions on that directory after it completes the installation, gives you instructions, and then stops)
