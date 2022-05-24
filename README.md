@@ -33,6 +33,7 @@ sudo chmod 7777 /usr/share/icons
 ``` shell
 cp -R ~/Downloads/<Pack Name> /usr/share/icons
 ```
+Here <Pack Name> is one of four pack names Posy-White, Posy-White-Mono, Posy-Black, Posy-Black-Mono
 4. Install `gnome-tweaks`(if not already) tool from terminal using:
 ``` shell
 sudo apt install gnome-tweaks
