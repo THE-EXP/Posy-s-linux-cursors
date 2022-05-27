@@ -2,9 +2,9 @@
 #### A port of Posy's cursors to linux
 Important note: I do not own original assets of those cursors, they all belong to Posy(aka Michiel) and available at [his site (www.michieldb.nl)](http://www.michieldb.nl/other/cursors/) I only renamed them and generated X11 cursors with [win2xcur](http://package.wiki/win2xcur)
 
-Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download .zip` option in `~/Downloads`), howewer, you can use the script for automated install instead, all code in the installation scripts is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
+Below, there is a guide for manual installation(all assuming you have downloaded and unpacked all files of this repo with `Download ZIP` option to `~/Downloads`), howewer, you can use the script for automated install instead, all code in the installation script is written by me and is open for any review by you(if you understand what all the written code means) if you have any reason not to trust me as an unknown developer
 
-Please keep in mind that the installation guide is written for Gnome, for other Desktop enviroments(like KDE, XFCE, LXQT, Cinnamon, MATE, etc.) instructions can be found online, best instructions I could find is on [Arch Wiki](https://wiki.archlinux.org/title/Cursor_themes#Desktop_environments)
+Please keep in mind that the installation guide is written for Gnome, for other Desktop enviroments(like KDE, XFCE, LXQT, Cinnamon, MATE, etc.) instructions can be found online, best instructions I could find is on [Arch Wiki](https://wiki.archlinux.org/title/Cursor_themes#Desktop_environments), it is howewer only goes over the instructions for Gnome, KDE and XFCE, and not much else
 
 any errors while using the pack should be reported in issues tab of this repo
 
